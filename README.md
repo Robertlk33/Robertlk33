@@ -15,7 +15,6 @@ Estou sempre em busca de aprender e melhorar minhas habilidades nas tecnologias,
 - 📊   <strong>GRÁFICOS</strong>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Robertlk33&show_icons=true)
-[![Robert stats](https://github-readme-stats.vercel.app/api?username=Robertlk33)](https://github.com/anuraghazra/github-readme-stats)
+![Robert stats](https://github-readme-stats.vercel.app/api?username=Robertlk33&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Robertlk33&langs_count=8)
